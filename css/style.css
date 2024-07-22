@@ -9523,7 +9523,8 @@ h6,
   right: 0;
   bottom: 0;
   text-align: left;
-  background: rgba(0, 0, 0, 0.7);
+  /* opacidad de fondo negro */
+  background: rgba(0, 0, 0, 0.5);
   z-index: 1;
 }
 
